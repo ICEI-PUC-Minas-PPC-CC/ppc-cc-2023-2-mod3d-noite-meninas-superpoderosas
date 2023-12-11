@@ -20,4 +20,4 @@ Crtl = suavizar superfícies
 
 # Vídeo
 
-
+https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-mod3d-noite-meninas-superpoderosas/blob/main/docs/img/gravacao_com_nomes_das_alunas%20(1).mpeg
